@@ -6,7 +6,7 @@ export const Quote = () => {
         Welcome to "MeBlog" — Your haven for thoughts, stories, and endless inspiration.
     </div>
     <div className="max-w-md text-xl font-semibold text-left mt-4">
-        Nabadeep Kr. das
+        Nabadeep Kr. Das
         </div>
 
      <div className="max-w-md text-sm font-light text-slate-400">
